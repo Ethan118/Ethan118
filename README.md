@@ -64,7 +64,7 @@ Frameworks and Libraries 📚
 <hr>
 
 <h3 align="center">
-Databases, Cloud, and CI/CD 🗃️
+Databases and Cloud 🗃️
 </h3>
 
 <div align="center">
@@ -82,7 +82,7 @@ Databases, Cloud, and CI/CD 🗃️
 <hr>
 
 <h3 align="center">
-Tools 🛠️
+Tools and More 🛠️
 </h3>
 
 <div align="center">
