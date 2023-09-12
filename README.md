@@ -2,15 +2,14 @@
 Hi there, I'm Ethan Ahn 👋
 </h1>
 
+<img align="right" border-radius=100px src="test_annotated.jpg" alt="Ethan Ahn ML object detection with yolov8" height=300>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AR+%7C+BCI+Enthusiast;Full+Stack+Developer;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
-<p>
-<img align="right" src="test_annotated.jpg" alt="Ethan Ahn ML object detection with yolov8" width=200>
-</p>
-
 <hr>
+
 
 ```
 💻 Prev Software Developer @ RBC
