@@ -22,7 +22,7 @@
 ----------------------------------
 👨‍💻 Studying as a Mechatronics Engineering Student @ UWaterloo
 ⭐ Aspiring Machine Learning and Autonomous Robotics Engineer
-🔥 Passionate about Autonomous Robotics
+🔥 Passionate about Autonomous Robotics and VR/AR
 🔭 Currently working on LLMs and Personal Assistants
 🌱 Learning about Machine Learning and AR
 ✅ Main Languages: Python, C++, Java
