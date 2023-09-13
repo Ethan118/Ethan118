@@ -1,6 +1,12 @@
 <h1 align="center">
-Hi there, I'm Ethan Ahn 👋
+"Hello World!" I'm Ethan Ahn 👋
 </h1>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ethanahn)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ethan@tower10labs.com)
+</div>
 
 <img align="right" border-radius=100px src="test_annotated.jpg" alt="Ethan Ahn ML object detection with yolov8" height=300>
 
