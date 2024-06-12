@@ -11,21 +11,21 @@
 <img align="right" border-radius=100px src="test_annotated.jpg" alt="Ethan Ahn ML object detection with yolov8" height=300>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AR+%7C+BCI+Enthusiast;Full+Stack+Developer;Lifelong+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;IoT+%7C+Robotics+%7C+BCI+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
 <hr>
 
 
 ```
-💻 Prev Software Developer @ RBC
+💻 Prev Firmware Developer @ onsemi
 ----------------------------------
 👨‍💻 Studying as a Mechatronics Engineering Student @ UWaterloo
 ⭐ Aspiring Machine Learning and Autonomous Robotics Engineer
-🔥 Passionate about Autonomous Robotics and VR/AR
-🔭 Currently working on LLMs and Personal Assistants
-🌱 Learning about Machine Learning and AR
-✅ Main Languages: Python, C++, Java
+🔥 Passionate about Autonomous Robotics and Low Power, Wireless devices
+🔭 Currently working on a self-powered, tracking device
+🌱 Learning about Embedded systems, hardware design
+✅ Main Languages: Python, C, C++, Java
 ```
 
 <hr>
